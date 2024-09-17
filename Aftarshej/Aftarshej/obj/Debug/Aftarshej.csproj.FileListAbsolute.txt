@@ -1,0 +1,7 @@
+C:\Users\Tanulo\Git\Employers\Aftarshej\Aftarshej\bin\Debug\Aftarshej.exe.config
+C:\Users\Tanulo\Git\Employers\Aftarshej\Aftarshej\bin\Debug\Aftarshej.exe
+C:\Users\Tanulo\Git\Employers\Aftarshej\Aftarshej\bin\Debug\Aftarshej.pdb
+C:\Users\Tanulo\Git\Employers\Aftarshej\Aftarshej\obj\Debug\Aftarshej.csproj.AssemblyReference.cache
+C:\Users\Tanulo\Git\Employers\Aftarshej\Aftarshej\obj\Debug\Aftarshej.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\Git\Employers\Aftarshej\Aftarshej\obj\Debug\Aftarshej.exe
+C:\Users\Tanulo\Git\Employers\Aftarshej\Aftarshej\obj\Debug\Aftarshej.pdb
