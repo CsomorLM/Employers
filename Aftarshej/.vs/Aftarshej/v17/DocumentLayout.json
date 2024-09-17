@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tanulo\\Git\\Employers\\Aftarshej\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B63BCE9-22AD-4AF0-8474-7E5A5EF048E7}|Aftarshej\\Aftarshej.csproj|c:\\users\\tanulo\\git\\employers\\aftarshej\\aftarshej\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B63BCE9-22AD-4AF0-8474-7E5A5EF048E7}|Aftarshej\\Aftarshej.csproj|solutionrelative:aftarshej\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tanulo\\Git\\Employers\\Aftarshej\\Aftarshej\\Program.cs",
+              "RelativeDocumentMoniker": "Aftarshej\\Program.cs",
+              "ToolTip": "C:\\Users\\Tanulo\\Git\\Employers\\Aftarshej\\Aftarshej\\Program.cs",
+              "RelativeToolTip": "Aftarshej\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T08:24:19.294Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
